@@ -35,3 +35,13 @@ Pour récupérer un verset spécifique avec son I'rab et le Tafsir d'Ibn Kathir 
 SELECT aya_text_tashkil, earab_quran, tafseer_ibn_kathir 
 FROM quran 
 WHERE sora = 1 AND aya_no = 1;
+## 📜 Licence & Crédits
+
+### Licence
+Ce projet est distribué sous la licence **MIT**. Vous êtes libre d'utiliser cette base de données pour vos projets personnels ou commerciaux, à condition de conserver cette mention de licence.
+
+### Crédits & Sources
+Les données contenues dans `quran.db` ont été compilées à partir de sources fiables :
+* **Texte du Coran :** [Tanzil.net](https://tanzil.net)
+* **Tafsirs & I'rab :** Projet Ayah et sources Open Data.
+* **Développement :** Mahmoud (@mahmoudkalimero1100-rgb)
