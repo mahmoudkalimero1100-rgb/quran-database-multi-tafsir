@@ -43,3 +43,4 @@ Les données contenues dans `quran.db` ont été compilées à partir de sources
 * **Texte du Coran :** [Tanzil.net](https://tanzil.net)
 * **Tafsirs & I'rab :** Projet Ayah et sources Open Data.
 * **Développement :** Mahmoud (@mahmoudkalimero1100-rgb)
+![Downloads](https://img.shields.io/github/downloads/mahmoudkalimero1100-rgb/quran-database-multi-tafsir/total)
