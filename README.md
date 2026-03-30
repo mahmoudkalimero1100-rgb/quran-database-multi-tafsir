@@ -1,7 +1,5 @@
-# quran-database-multi-tafsir
-Base de données SQLite contenant le texte du Coran avec plusieurs exégèses (Tafsir) pour les développeurs.
 # 📖 Quran Mega Tafsir Database (SQLite)
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 Une base de données complète et optimisée contenant le texte sacré du Coran, l'analyse grammaticale et 7 exégèses (Tafsirs) majeures.
 
 ## 📥 Téléchargement
