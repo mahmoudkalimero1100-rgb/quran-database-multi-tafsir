@@ -1,0 +1,15 @@
+# Python - Fichiers compilés et caches
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# SQLite - Fichiers temporaires (Journalisation)
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Système (Windows / Mac)
+Thumbs.db
+.DS_Store
