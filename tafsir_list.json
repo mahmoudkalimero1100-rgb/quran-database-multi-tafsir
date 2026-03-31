@@ -1,0 +1,16 @@
+{
+  "last_update": "2026-03-31",
+  "base_url": "https://github.com/mahmoudkalimero1100-rgb/quran-database-multi-tafsir/releases/download/tafsir-v1/",
+  "tafsirs": [
+    {"id": "al_basit", "name": "Al-Basit", "file": "al-basit.db", "size": "32.1 MB"},
+    {"name": "Al-Qurtubi", "file": "ar-tafseer-al-qurtubi.db", "size": "33.4 MB"},
+    {"name": "Al-Baghawi", "file": "ar-tafsir-al-baghawi.db", "size": "16.2 MB"},
+    {"name": "At-Tabari", "file": "ar-tafsir-al-tabari.db", "size": "39.9 MB"},
+    {"name": "Al-Wasit", "file": "ar-tafsir-al-wasit.db", "size": "20.1 MB"},
+    {"name": "Ibn Kathir", "file": "ar-tafsir-ibn-kathir.db", "size": "26.1 MB"},
+    {"name": "Al-Muyassar", "file": "ar-tafsir-muyassar.db", "size": "2.59 MB"},
+    {"name": "Jalalayn", "file": "in-tafsir-jalalayn.db", "size": "232 KB"},
+    {"name": "As-Saadi", "file": "tafsir-as-saadi.db", "size": "8.21 MB"},
+    {"name": "Ibn Uthaymeen", "file": "tafsir-ibn-uthaymeen.db", "size": "42.8 MB"}
+  ]
+}
